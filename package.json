@@ -223,7 +223,7 @@
     "node-forge@1": "1.4.0",
     "postcss": "$postcss",
     "protobufjs@7": "7.6.3",
-    "protobufjs@8": "8.6.0",
+    "protobufjs@8": "8.6.6",
     "qs@6": "6.15.2",
     "systeminformation@5": "5.31.7",
     "tmp@0.2": "0.2.6",
